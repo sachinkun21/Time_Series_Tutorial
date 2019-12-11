@@ -3,5 +3,5 @@
 - Time Series EDA
 - TimeStamp Manipulation and Resampling
 - Modeling Time Series
-- Various TimeSeries forecasting Techniques
+- Various Time Series forecasting Techniques
 
